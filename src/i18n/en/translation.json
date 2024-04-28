@@ -1,0 +1,381 @@
+
+{
+  "basic_info": {
+    "name": "Sandeep Tiwari",
+    "titles": [
+      "Front-end Developer",
+      "Mobile App Developer",
+      "Android Developer",
+      "IOS Developer",
+      "Website Developer"
+    ],
+    "socials": [
+      {
+        "icon": "mdi:linkedin",
+        "url": "https://www.linkedin.com/in/sandeep-tiwari-71a9081b4/"
+      },
+      {
+        "icon": "mdi:github",
+        "url": "https://github.com/Sandy2210-cool"
+      },
+      {
+        "icon": "mdi:stackoverflow",
+        "url": "https://stackoverflow.com/users/19887503/sandy"
+      },
+      {
+        "icon": "bxl:upwork",
+        "url": "https://www.upwork.com/freelancers/~01390356c5477d78d5"
+      }
+    ]
+  },
+  "about_me": {
+    "title": "About me",
+    "greeting": "Hi 👋",
+    "content": " I'm Sandeep Tiwari. Introducing myself in key points for better understanding:- {'\n'} 1. 4+ years experience in Mobile app Design and Development. {'\n'} 2. Profile worked in:- React Native / Javascript / Redux / API Integration / Firebase / Git / JIRA / {'\n'} 3. Good Expertise in Deployment of Application on play store and app store , Payment Gateway, Push Notification, Android and IOS application. {'\n'} 4. Worked on over 12+ applications like e-commerce, service based, video editing. {'\n'} {'\n'}",
+   "content1":"I have a background in Mobile App designing/development and experience of successfully deliver a application. Over the last few years, I’ve had the opportunity of working for several clients, this has given me extensive knowledge and technical skills.",
+   "content2":"{'\n'} {'\n'} Let's work together for better results... {'\n'} Thank you 💜",
+   "image": "../../images/myProfile.jpeg",
+    "tech_stacks": ["devicon:angular", "devicon:react", "devicon:vuejs"]
+  },
+  "projects": {
+    "title": "projects",
+    "projects": [
+     
+      {
+        "title": "HairValet",
+        "startDate": "2021",
+        "live":"Live",
+        "description": "Connects users with the surrounding beauty care service providers, in the different location to service them in the comfort of their home or chosen location. With HairValet, your beauty is finally on your fingertips, from your smartphone to the comfort of your home. :)",
+        "images": [
+          "hair",
+          "images/portfolio/photography/hairlogo.png",
+          "images/portfolio/photography/hair1.png",
+          "images/portfolio/photography/hair2.png"
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.app.hairvalet",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React Native"
+          },
+          {
+            "class": "teenyicons:javascript-outline",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "GlamCode- Luxury Home Salon",
+        "startDate": "2022",
+        "live":"Live",
+        "description": "Glam Code is an Upscale Fully-Equipped Home Salon Services start-up, initiated by mother and daughter in law duo.  They travelled many places, visited named parlours, took home services and subsequently, decided to incorporate the basic intricacies of Luxury Salon in Home Salon for comfortable, pampering and delightful experience.",
+        "images": [
+         "glam",
+          "images/portfolio/adventure/life1.png",
+          "portfolio/animal-shelter/glamcode1.png",
+          "portfolio/animal-shelter/glamcode3.png"
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.glamcode.app",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React Native"
+          },
+          {
+            "class": "teenyicons:javascript-solid",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Life-Savour",
+        "startDate": "2022",
+        "live":"Live",
+        "description": "Have you ever stared in frustration at a retail store trying to find that gift that your loved one would appreciate. Unfortunately, we all have. Life Savour will find all your loved one’s favourites so you don’t have to worry. You can just sit back and savour that special relationship knowing that their gift won’t get in the way of a special day.",
+        "images": [
+          "life",
+          "images/portfolio/adventure/lifelogo.png",
+          "images/portfolio/adventure/life1.png",
+          "images/portfolio/adventure/life2.png"
+        ],
+        "url": "https://www.upwork.com/freelancers/~01390356c5477d78d5?p=1730853759738310656",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React Native"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "JayT - Photo Editing App",
+        "startDate": "2022",
+        "live":"Live",
+        "description": "JayT is a photo editor application. Implemented 25+ filters, cropping, rotation, flip, 180 degree, add another image in below , brightness, saturation, Sepia and other multiple features available in JayT.",
+        "images": [
+          "jayT",
+          "images/portfolio/adventure/lifelogo.png",
+          "images/portfolio/adventure/life1.png",
+          "images/portfolio/adventure/life2.png"
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.jaytphotoedit&hl=en-IN",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React Native"
+          },
+          {
+            "class": "teenyicons:javascript-solid",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "YoungCruiser (Sea People)",
+        "startDate": "2023",
+        "live":"Not Live Yet",
+        "description": "Young Cruiser's Association (YCA) is a collective of young*, salty vagabonds that have found and formed a community of the sea.  Whether you are actively seafaring, wayfaring, or daydreaming of such things, there is a place (and a barstool) for you in the YCA. User/Boat Profile Management • Gathering/Event/ Places Management • Google/Facebook/Apple Login  • Push Notification • Map • Chat Functionality",
+        "images": [
+          "YC",
+          "images/portfolio/adventure/lifelogo.png",
+          "images/portfolio/adventure/life1.png",
+          "images/portfolio/adventure/life2.png"
+        ],
+        "url": "https://youngcruisers.org/",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React Native"
+          },
+          {
+            "class": "teenyicons:javascript-solid",
+            "name": "Javascript"
+          }
+        ]
+      },
+      
+      {
+        "title": "How-Much?",
+        "startDate": "2023",
+        "live":"Live",
+        "description": "Buy and Sell products and services at your doorsteps:- 1.Messages 2.Video Calls 3.Buy sell products and services",
+        "images": [
+          "hm",
+          "images/portfolio/adventure/lifelogo.png",
+          "images/portfolio/adventure/life1.png",
+          "images/portfolio/adventure/life2.png"
+        ],
+        "url": "https://apps.apple.com/in/app/how-much/id6473209985",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React Native"
+          },
+          {
+            "class": "teenyicons:javascript-solid",
+            "name": "Javascript"
+          }
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "icons": [
+      {
+        "name": "React Native",
+        "class": "tabler:brand-react-native",
+        "level": "80"
+      },
+      {
+        "name": "Android",
+        "class": "f7:logo-android",
+        "level": "60"
+      },
+      {
+        "name": "iOS",
+        "class": "material-symbols:ios",
+        "level": "60"
+      },
+      {
+        "name": "TypeScript",
+        "class": "teenyicons:typescript-solid",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "teenyicons:javascript-solid",
+        "level": "70"
+      },
+      {
+        "name": "React",
+        "class": "tabler:brand-react-native",
+        "level": "60"
+      },
+      {
+        "name": "HTML 5",
+        "class": "ri:html5-fill",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "teenyicons:css3-solid",
+        "level": "95"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "ri:bootstrap-fill",
+        "level": "85"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "experiences": [
+      {
+        "company": "OTS Solutions",
+        "title": "React Native Developer",
+        "years": "Dec 2022 - Present",
+        "mainTech": "React Native / Mobile App",
+        "mainTechIcon": "tabler:brand-react-native",
+        "technologies": [
+          "REST API",
+          "Redux",
+          "JavaScript",
+          "TypeScript",
+          "Firebase",
+          "Android ",
+          "IOS",
+          "In-App Purchase",
+          "Chat",
+          "NPM Package"
+        ]
+      },
+      {
+        "company": "WebMobril Technologies",
+        "title": "React Native Developer",
+        "years": "Apr 2022 - Dec 2022",
+        "mainTech": "React Native",
+        "mainTechIcon": "mdi:react",
+        "technologies": [
+          "REST API",
+          "Redux",
+          "JavaScript",
+          "TypeScript",
+          "Firebase",
+          "Android ",
+          "IOS",
+          "Push Notification",
+          "Map",
+          "Video Editing"
+        ]
+      },
+      {
+        "company": "Future World Digital",
+        "title": "React Native Developer",
+        "years": "Sep 2020 - Jan 2022",
+        "mainTech": "React Native",
+        "mainTechIcon": "mdi:react",
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Firebase",
+          "Android ",
+          "IOS",
+          "Push Notification",
+          "Map"
+        ]
+      },
+      {
+        "company": "Mobiloitte",
+        "title": "BA/QA",
+        "years": "Jan 2018 - Apr 2018",
+        "mainTech": "Intern",
+        "mainTechIcon": "mdi:react",
+        "technologies": [
+          "Requirement Gathering",
+          "Manual Testing",
+         "Test Cases",
+         "Flow Diagram"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "educations": [
+      {
+    
+        "degree": "Master of Computer Applications",
+        "years": "July 2016 - June 2018",
+        "mainTech": "full-time",
+        "grade":"78%",
+        "mainTechIcon": "material-symbols-light:computer-sharp",
+        "technologies": [
+          "Database",
+          "Data Structure",
+          "C",
+          "C++",
+          "Web Technologies",
+          "Software Testing ",
+          "Computer Architecture",
+          "Operating System"
+         
+        ]
+      },
+      {
+    
+        "degree": "Bachlor of Science (Computer)",
+        "years": "July 2013 - June 2016",
+        "mainTech": "full-time",
+        "mainTechIcon": "material-symbols-light:computer-sharp",
+        "grade":"61%",
+        "technologies": [
+          "C",
+          "C++",
+          "DBMS",
+          "Data Structure",
+          "Computer Architecture",
+          "Math"
+         
+        ]
+      },
+      {
+    
+        "degree": "Intermediate (12th CBSC)",
+        "years": "July 2012 - June 2013",
+        "mainTech": "full-time",
+        "mainTechIcon": "material-symbols-light:computer-sharp",
+        "grade":"64%",
+        "technologies": [
+          "English",
+          "Physics",
+          "Chemistry",
+          "Computer",
+          "Math"
+         
+        ]
+      },
+      {
+    
+        "degree": "HighSchool (10th CBSC)",
+        "years": "July 2010 - June 2011",
+        "mainTech": "full-time",
+        "mainTechIcon": "material-symbols-light:computer-sharp",
+        "grade":"77%",
+        "technologies": [
+          "English",
+          "Physics",
+          "Chemistry",
+          "Computer",
+          "Math",
+          "Hindi"
+        ]
+      }
+    ]
+  },
+  "copyright": "Copyright"
+}
