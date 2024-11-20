@@ -1,4 +1,4 @@
-Portfolio Demo in React
+Simple Portfolio Demo in React
 
 ```js
 Screenshots of Demo Portfolio
